@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<cart>
+    <product_item>
+        <price_item>
+            <precio>0</precio>
+            <divisa>EU</divisa>
+        </price_item>
+    </product_item>
+    <id_producto>2</id_producto>
+    <cantidad>10</cantidad>
+    <product_item>
+        <price_item>
+            <precio>0</precio>
+            <divisa>EU</divisa>
+        </price_item>
+    </product_item>
+    <id_producto>1</id_producto>
+    <cantidad>10</cantidad>
+</cart>
