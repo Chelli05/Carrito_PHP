@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cart>
+    <product_item>
+        <id_product>1</id_product>
+        <quantity>20</quantity>
+        <price_item>
+            <price>10</price>
+            <currency>EU</currency>
+        </price_item>
+        <price_with_vat>12.10</price_with_vat>
+    </product_item>
+    <product_item>
+        <id_product>2</id_product>
+        <quantity>15</quantity>
+        <price_item>
+            <price>66</price>
+            <currency>EU</currency>
+        </price_item>
+        <price_with_vat>79.86</price_with_vat>
+    </product_item>
+    <product_item>
+        <id_product>3</id_product>
+        <quantity>17</quantity>
+        <price_item>
+            <price>9</price>
+            <currency>EU</currency>
+        </price_item>
+        <price_with_vat>10.89</price_with_vat>
+    </product_item>    
+    <product_item>
+        <id_product>4</id_product>
+        <quantity>30</quantity>
+        <price_item>
+            <price>22</price>
+            <currency>EU</currency>
+        </price_item>
+        <price_with_vat>26.62</price_with_vat> 
+    </product_item>
+</cart>

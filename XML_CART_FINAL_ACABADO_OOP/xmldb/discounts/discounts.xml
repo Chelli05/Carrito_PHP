@@ -1,0 +1,10 @@
+<discounts>
+    <discount>
+        <code>DESC10</code>
+        <value>0.10</value>
+    </discount>
+    <discount>
+        <code>DESC20</code>
+        <value>0.20</value>
+    </discount>
+</discounts>

@@ -1,0 +1,33 @@
+# Generar un archivo de texto con las URLs de ejemplo
+urls = """
+1. **Agregar producto al carrito**
+   URL: yourdomain.com/main.php?action=addToCart&productId=123&quantity=2
+   Descripción: Agrega el producto con productId = 123 y cantidad 2 al carrito.
+
+2. **Ver el carrito**
+   URL: yourdomain.com/main.php?action=viewCart
+   Descripción: Muestra el contenido del carrito del usuario autenticado.
+
+3. **Eliminar producto del carrito**
+   URL: yourdomain.com/main.php?action=removeFromCart&productId=123
+   Descripción: Elimina el producto con productId = 123 del carrito.
+
+4. **Iniciar sesión**
+   URL: yourdomain.com/main.php?action=login&username=john&password=secret
+   Descripción: Inicia sesión con el usuario john y la contraseña secret.
+
+5. **Cerrar sesión**
+   URL: yourdomain.com/main.php?action=logout
+   Descripción: Cierra la sesión del usuario autenticado.
+
+6. **Registrar nuevo usuario**
+   URL: yourdomain.com/main.php?action=register&username=john&password=secret
+   Descripción: Registra un nuevo usuario con el nombre de usuario john y la contraseña secret.
+
+7. **Ver catálogo de productos**
+   URL: yourdomain.com/main.php?page=catalog
+   Descripción: Muestra el catálogo de productos disponibles.
+
+8. **Ver el carrito del usuario**
+   URL: yourdomain.com/main.php?page=cart
+   Descripción: Muestra el carrito del usuario autenticado.
